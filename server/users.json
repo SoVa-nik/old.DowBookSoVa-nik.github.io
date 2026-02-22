@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin",
+    "passwordHash": "$2a$10$W4v6XLpQ8Ir9idW/3bSzu.4ALSA8VcizG.H/0YNFjM7/Z9Z.628xq",
+    "isAdmin": true
+  },
+  {
+    "username": "Golem",
+    "passwordHash": "$2a$10$ij9TlDzyihHkh5MeAjmwAOUlRCQd2UQo6d6PDGGWTeOKQEKs1zmVu",
+    "isAdmin": false
+  }
+]
